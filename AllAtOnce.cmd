@@ -1,3 +1,4 @@
-git commit -m "first commit"
-git remote add origin https://github.com/sdrshnptl/GitHub-automation-using-windows-command-line.git
-git push -u origin master
+git add *.*
+git status
+git commit
+git push origin master
