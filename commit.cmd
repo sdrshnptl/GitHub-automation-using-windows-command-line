@@ -1,0 +1,1 @@
+git remote add origin https://github.com/sdrshnptl/GitHub-automation-using-windows-command-line.git
